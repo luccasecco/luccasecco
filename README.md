@@ -1,7 +1,7 @@
 ## Opa! Eu sou o Lucca 🤘
 
 - 🔭 Sou engenheiro civil há 10 anos e estou estudando para me tornar desenvolvedor front-end.
-- 🌱 No momento estou estudando ReactJS e Typescript
+- 🌱 No momento estou estudando ReactJS e Typescript através do programa Ignite da RocketSeat.
 
 <div align="center">
   <a href="https://github.com/luccasecco">
