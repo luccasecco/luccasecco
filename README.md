@@ -3,7 +3,7 @@
 - 👷‍♂️ Sou engenheiro civil há 10 anos.
 - 👨‍💻 Estou estudando para me tornar desenvolvedor.
 - 🚀 No momento aprendendo ReactJS e Typescript através do programa Ignite da RocketSeat.
-- :zap: Participante TQI-Bootcamp da DIO.
+
 
 <div align="center">
   <a href="https://github.com/luccasecco">
