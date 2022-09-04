@@ -1,7 +1,7 @@
 ## Opa! Eu sou o Lucca 🤘
 
 - 👷‍♂️ Sou engenheiro civil há 10 anos.
-- 👨‍💻 Desenvolvedor front-end.
+- 👨‍💻 Desenvolvedor front-end desde 2022.
 
 
 <div align="center">
