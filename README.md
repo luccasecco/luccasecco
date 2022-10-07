@@ -1,9 +1,13 @@
+<h1 align="center"> Opa! Eu sou o Lucca 🤘</h1>
 
-## Opa! Eu sou o Lucca 🤘
 
-- 👷‍♂️ Sou engenheiro civil há 10 anos.
-- 👨‍💻 Desenvolvedor front-end desde 2022.
+<div align="center">
+👷‍♂️ Engenheiro civil há 10 anos.
+<br />
+👨‍💻 Desenvolvedor front-end desde 2022.
 
+<br />
+<br />
 
 <div>
   <a href="https://github.com/luccasecco">
@@ -36,5 +40,6 @@
   <a href = "mailto:luccasecco@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/luccaseccodev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
+</div>  
 <!--   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg) -->
 </div>
