@@ -1,13 +1,4 @@
-<h1 align="center"> Opa! Eu sou o Lucca 🤘</h1>
 
-
-<div align="center">
-👷‍♂️ Engenheiro civil há 10 anos.
-<br />
-👨‍💻 Desenvolvedor front-end desde 2022.
-
-<br />
-<br />
 
 <div>
   <a href="https://github.com/luccasecco">
