@@ -1,4 +1,5 @@
-
+<h1 align="center"> Desenvolvedor Front End </h1>
+<p align="center"> React | React-Native | Next.js</p>
 <div align="center">
 <div>
   <a href="https://github.com/luccasecco">
