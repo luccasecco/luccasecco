@@ -1,4 +1,5 @@
-<h1 align="center"> Desenvolvedor Front End </h1>
+<h1 align="center"> Opa! <img src="https://raw.githubusercontent.com/tavareshenrique/tavareshenrique/master/gifs/Hi.gif" width="30px" height="30px"></h1>
+
 
 <div align="center">
 <div>
