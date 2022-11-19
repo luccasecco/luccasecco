@@ -1,4 +1,4 @@
-<h1 align="center"> Hey! Welcome <img src="https://raw.githubusercontent.com/tavareshenrique/tavareshenrique/master/gifs/Hi.gif" width="30px" height="30px"></h1>
+<h1 align="center"> Hey! Welcome! <img src="https://raw.githubusercontent.com/tavareshenrique/tavareshenrique/master/gifs/Hi.gif" width="30px" height="30px"></h1>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=009900&height=120&section=header"/>
 
