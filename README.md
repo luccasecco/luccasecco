@@ -1,8 +1,39 @@
 <h1 align="center"> Hey! Welcome! <img src="https://raw.githubusercontent.com/tavareshenrique/tavareshenrique/master/gifs/Hi.gif" width="30px" height="30px"></h1>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=009900&height=120&section=header"/>
+```JavaScript
+const aboutMe = {
+  name: 'Lucca Secco',
+  age: '32',
+  rank: 'FrontEnd Developer',
+  country: 'Brazil',
+  hobbies: [
+    'motorcycle',
+    'music',
+    'friends',
+    'family',
+    'movies',
+    'series',
+    'play guitar'
+  ],
+  softSkills: [
+    'organization',
+    'teamwork',
+    'leadership',
+  ]
+};
+
+function contactMe() {
+  return {
+    email: 'luccasecco@gmail.com',
+    linkedin: 'https://www.linkedin.com/in/luccaseccodev',
+  }
+}
+```
+<br>
 
 <div align="center">
+  
+
 <div>
   <a href="https://github.com/luccasecco">
   <img  width='400em' src="https://github-readme-stats.vercel.app/api?username=luccasecco&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
