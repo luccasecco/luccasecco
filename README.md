@@ -14,6 +14,8 @@ const aboutMe = {
     'play guitar'
   ],
   softSkills: [
+    'ability to solve problems',
+    'collaboration',
     'organization',
     'teamwork',
     'leadership',
