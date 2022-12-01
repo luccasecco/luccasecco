@@ -34,18 +34,14 @@ function contactMe() {
 
 <div>
   <a href="https://github.com/luccasecco">
-  <img  width='400em' src="https://github-readme-stats.vercel.app/api?username=luccasecco&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<!--   <img  width='400em' src="https://github-readme-stats.vercel.app/api?username=luccasecco&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> -->
   <img width='400em' src='https://github-readme-streak-stats.herokuapp.com?user=anacperdigao&theme=react&date_format=j%20M%5B%20Y%5D&fire=DD0000&ring=52DD81&dates=52DD81&stroke=ABCFDD' />
 </div>
   
-<div>
- 
- </div>
 
-<div>
-   <img  width='400em'src="https://github-readme-stats.vercel.app/api/top-langs/?username=luccasecco&layout=compact&langs_count=7&theme=dark"/> 
-  
-  </div>
+<!-- <div>
+   <img  width='400em'src="https://github-readme-stats.vercel.app/api/top-langs/?username=luccasecco&layout=compact&langs_count=7&theme=dark"/>  
+</div> -->
 
   
   ##
@@ -73,6 +69,6 @@ function contactMe() {
 [![Linkedin Badge](https://img.shields.io/badge/-Lucca%20Secco-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luccaseccodev/)](https://www.linkedin.com/in/luccaseccodev/) [![Gmail Badge](https://img.shields.io/badge/-luccasecco@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luccasecco@gmail.com)](mailto:luccasecco@gmail.com) 
  
   
-  </div>
+</div>
 
  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=009900&height=120&section=footer"/>
