@@ -37,7 +37,7 @@ function contactMe() {
 <div>
   <a href="https://github.com/luccasecco">
 <!--   <img  width='400em' src="https://github-readme-stats.vercel.app/api?username=luccasecco&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> -->
-  <img width='400em' src='https://github-readme-streak-stats.herokuapp.com?user=anacperdigao&theme=react&date_format=j%20M%5B%20Y%5D&fire=DD0000&ring=52DD81&dates=52DD81&stroke=ABCFDD' />
+<!--   <img width='400em' src='https://github-readme-streak-stats.herokuapp.com?user=anacperdigao&theme=react&date_format=j%20M%5B%20Y%5D&fire=DD0000&ring=52DD81&dates=52DD81&stroke=ABCFDD' /> -->
 </div>
   
 
