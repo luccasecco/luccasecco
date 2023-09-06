@@ -5,6 +5,8 @@ const aboutMe = {
   rank: 'FrontEnd Developer',
   country: 'Brazil',
   hobbies: [
+    'code',
+    'study',
     'motorcycle',
     'music',
     'friends',
