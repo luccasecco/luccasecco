@@ -1,7 +1,7 @@
 ```JavaScript
 const aboutMe = {
   name: 'Lucca Secco',
-  age: '33',
+  age: '35',
   rank: 'FrontEnd Developer',
   country: 'Brazil',
   hobbies: [
